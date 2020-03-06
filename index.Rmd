@@ -1,0 +1,14 @@
+---
+title: "Index"
+output: html_document
+bibliography: "data/bibliography.bib"
+---
+
+[Lab 3](Lab3_HuGen_2020.html)\
+[Lab 4](Lab4_HuGen_2020.html)\
+[Lab 5](Lab5_HuGen_2020.html)\
+[Lab 6](Lab6_HuGen_2020.html)\
+
+Application written in R [@RCoreTeam].
+
+#REFERENCES
