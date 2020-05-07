@@ -1,0 +1,333 @@
+0 HEAD
+1 CHAR UTF-8
+1 SOUR Ancestry.com Family Trees
+2 VERS (2010.3)
+2 NAME Ancestry.com Family Trees
+2 CORP Ancestry.com
+1 GEDC
+2 VERS 5.5
+2 FORM LINEAGE-LINKED
+0 @P1@ INDI 
+1 NAME Robert Micah /Lovell/
+1 BIRT 
+2 DATE 10 Jun 1995
+2 PLAC Beverly, Essex, Massachusetts, USA
+1 SEX M
+1 FAMC @F1@
+0 @P2@ INDI 
+1 NAME Mary Allison /Simcox/
+1 BIRT 
+2 DATE 10 Oct 1962
+2 PLAC Oklahoma City, Oklahoma, Oklahoma, USA
+1 SEX F
+1 FAMC @F3@
+1 FAMS @F1@
+0 @P3@ INDI 
+1 NAME John Robert /Lovell/
+1 BIRT 
+2 DATE 17 Jul 1951
+2 PLAC Glendale, Los Angeles, California, USA
+1 SEX M
+1 SEX M
+1 FAMC @F2@
+1 FAMS @F1@
+0 @P4@ INDI 
+1 BIRT 
+2 DATE July 3 
+2 PLAC Keokuk County, Iowa, USA
+1 DEAT 
+2 DATE Mar 10, 2013
+2 PLAC Laguna Niguel, Orange, California, USA
+1 NAME Marie Louise /Nodler/
+1 SEX F
+1 FAMC @F6@
+1 FAMS @F2@
+0 @P5@ INDI 
+1 BIRT 
+2 DATE 19 Apr 1925
+2 PLAC Beloit, Rock, Wisconsin, USA
+1 DEAT 
+2 DATE Feb 14 2007
+2 PLAC Laguna Woods, Orange, California, USA
+1 NAME Robert Calvin /Lovell/
+1 SEX M
+1 FAMC @F4@
+1 FAMS @F2@
+0 @P6@ INDI 
+1 BIRT 
+2 DATE Nov 20, 1928
+1 NAME Mary Elizabeth /Cox/
+1 SEX F
+1 FAMC @F7@
+1 FAMS @F3@
+0 @P7@ INDI 
+1 BIRT 
+2 DATE Mar 19 1928
+2 PLAC Kiowa County, Oklahoma, USA
+1 DEAT 
+2 DATE Jan 9 1997
+2 PLAC Houston, Harris, Texas, USA
+1 NAME Sidney Paul /Simcox/
+1 SEX M
+1 FAMC @F5@
+1 FAMS @F3@
+0 @P8@ INDI 
+1 BIRT 
+2 DATE 5 Aug 1892
+2 PLAC Lake Geneva, Walworth, Wisconsin, USA
+1 DEAT 
+2 DATE 1940
+2 PLAC Beloit, Rock, Wisconsin, USA
+1 SEX F
+1 NAME Ilo A /Sherburne/
+1 FAMC @F9@
+1 FAMS @F4@
+0 @P9@ INDI 
+1 BIRT 
+2 DATE 2 May 1884
+2 PLAC Luverne, Iowa, USA
+1 DEAT 
+2 DATE 2 Nov Abt 1950
+2 PLAC Heloit, Wis.
+1 SEX M
+1 NAME Earle Devea /Lovell/
+1 FAMC @F8@
+1 FAMS @F4@
+0 @P10@ INDI 
+1 SEX F
+1 NAME Marie Louise Bouquet /Nodler/
+1 FAMC @F11@
+1 FAMS @F6@
+0 @P11@ INDI 
+1 SEX M
+1 NAME John Baptist /Nodler/
+1 FAMC @F10@
+1 FAMS @F6@
+0 @P12@ INDI 
+1 BIRT 
+2 DATE 12 Aug 1894
+2 PLAC Arkansas
+1 DEAT 
+2 DATE 23 Feb 1980
+2 PLAC Dallas, Dallas, Texas, USA
+1 SEX F
+1 NAME Jessie /Shepherd/
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=485a6f41-614f-4200-a480-26943d4486e9&tid=167815566&pid=12
+2 FORM jpg
+2 TITL Thomas J Simcox and Jessie Shepherd, marriage record
+1 FAMC @F13@
+1 FAMS @F5@
+0 @P13@ INDI 
+1 BIRT 
+2 DATE 17 Jun 1890
+2 PLAC Alexander, Saline County, Arkansas, USA
+1 DEAT 
+2 DATE 19 Sep 1929
+2 PLAC McAlester, Pittsburg County, Oklahoma, USA
+1 SEX M
+1 NAME Thomas James /SIMCOX/
+1 FAMC @F12@
+1 FAMS @F5@
+0 @P14@ INDI 
+1 SEX F
+1 NAME Ida /Moreau/
+1 FAMS @F7@
+0 @P15@ INDI 
+1 SEX M
+1 NAME Cam Theodore /Cox/
+1 FAMS @F7@
+0 @P16@ INDI 
+1 SEX M
+1 NAME Lorenzo /Lovell/
+1 FAMS @F8@
+0 @P17@ INDI 
+1 BIRT 
+2 DATE Dec 1838
+2 PLAC New York
+1 SEX F
+1 NAME Mary A /Godfrey/
+1 FAMS @F8@
+0 @P18@ INDI 
+1 BIRT 
+2 DATE 04 Oct 1862
+2 PLAC Michigan, USA
+1 DEAT 
+2 DATE 28 Oct 1896
+2 PLAC Lake Geneva, Walworth, Wisconsin, USA
+1 SEX M
+1 NAME Albert Lincoln /Sherburne/
+1 FAMS @F9@
+0 @P19@ INDI 
+1 BIRT 
+2 DATE Jan 1860
+2 PLAC Lyons, Walworth, Wisconsin, USA
+1 DEAT 
+2 DATE about 1930
+2 PLAC Wisconsin
+1 SEX F
+1 NAME Sarah /Hoffman/
+1 FAMS @F9@
+0 @P20@ INDI 
+1 BIRT 
+2 DATE 24 Apr 1863
+2 PLAC Arkansas City, Arkansas, Arkansas, United States
+1 DEAT 
+2 DATE 29 Sep 1909
+2 PLAC Lamar, Texas, United States
+1 SEX F
+1 NAME Lufelia P /Snow/
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=d88f089c-3c68-4a84-9562-94e047c680b9&tid=167815566&pid=20
+2 FORM jpg
+2 TITL Thomas Price Simcox and Lula Lufelia P Snow, marriage record
+1 FAMS @F12@
+0 @P21@ INDI 
+1 BIRT 
+2 DATE 21 Jan 1859
+2 PLAC Eastport, Tishomingo, Mississippi, USA
+1 DEAT 
+2 DATE 16 May 1904
+2 PLAC Lamar County, Texas, USA
+1 SEX M
+1 NAME Thomas Price /Simcox/
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=2cf36700-de8b-4f3f-bca0-1afb33d6c7c7&tid=167815566&pid=21
+2 FORM jpg
+2 TITL Thomas Price Simcox
+1 FAMS @F12@
+0 @P22@ INDI 
+1 BIRT 
+2 DATE 1 Nov 1854
+2 PLAC Buffalo, Greenup, Kentucky, USA
+1 DEAT 
+2 DATE 4 Sep 1922
+2 PLAC Bryant, Saline, Arkansas, USA
+1 SEX F
+1 NAME Elizabeth /Dowdy/
+1 FAMS @F13@
+0 @P23@ INDI 
+1 BIRT 
+2 DATE 11 June 1844
+2 PLAC Kentucky, United States of America
+1 DEAT 
+2 DATE 15 March 1919
+2 PLAC Bryant, Saline County, Arkansas, United States of America
+1 SEX M
+1 NAME Laban Brazilton /Shepherd/
+1 FAMS @F13@
+0 @P24@ INDI 
+1 BIRT 
+2 DATE Apr 1862
+2 PLAC Missouri
+1 SEX F
+1 NAME Elizabeth M /Nodler/
+1 FAMS @F10@
+0 @P25@ INDI 
+1 BIRT 
+2 DATE 29 Nov 1857
+1 DEAT 
+2 DATE 06 Jul 1932
+1 SEX M
+1 NAME Edward S /NODLER/
+1 FAMS @F10@
+0 @P26@ INDI 
+1 BIRT 
+2 DATE 7 Sep 1861
+2 PLAC Nauvoo, Hancock, Illinois, United States
+1 DEAT 
+2 DATE 26 Dec 1940
+2 PLAC Nauvoo, Hancock, Illinois, United States
+1 SEX F
+1 NAME Julia /Baumert/
+1 FAMS @F11@
+0 @P27@ INDI 
+1 BIRT 
+2 DATE Mar 1862
+2 PLAC Illinois
+1 SEX M
+1 NAME Louis /Bouquet/
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=6a8c8ddb-30ab-4e25-8780-045f6b172d1b&tid=167815566&pid=27
+2 FORM jpg
+2 TITL image
+1 FAMS @F11@
+0 @F1@ FAM 
+1 HUSB @P3@
+1 WIFE @P2@
+1 CHIL @P1@
+2 _FREL Natural
+2 _MREL Natural
+0 @F2@ FAM 
+1 HUSB @P5@
+1 WIFE @P4@
+1 CHIL @P3@
+2 _FREL Natural
+2 _MREL Natural
+0 @F3@ FAM 
+1 HUSB @P7@
+1 WIFE @P6@
+1 CHIL @P2@
+2 _FREL Natural
+2 _MREL Natural
+0 @F4@ FAM 
+1 HUSB @P9@
+1 WIFE @P8@
+1 CHIL @P5@
+2 _FREL Natural
+2 _MREL Natural
+0 @F5@ FAM 
+1 HUSB @P13@
+1 WIFE @P12@
+1 CHIL @P7@
+2 _FREL Natural
+2 _MREL Natural
+0 @F6@ FAM 
+1 HUSB @P11@
+1 WIFE @P10@
+1 CHIL @P4@
+2 _FREL Natural
+2 _MREL Natural
+0 @F7@ FAM 
+1 HUSB @P15@
+1 WIFE @P14@
+1 CHIL @P6@
+2 _FREL Natural
+2 _MREL Natural
+0 @F8@ FAM 
+1 HUSB @P16@
+1 WIFE @P17@
+1 CHIL @P9@
+2 _FREL Natural
+2 _MREL Natural
+0 @F9@ FAM 
+1 HUSB @P18@
+1 WIFE @P19@
+1 CHIL @P8@
+2 _FREL Natural
+2 _MREL Natural
+0 @F10@ FAM 
+1 HUSB @P25@
+1 WIFE @P24@
+1 CHIL @P11@
+2 _FREL Natural
+2 _MREL Natural
+0 @F11@ FAM 
+1 HUSB @P27@
+1 WIFE @P26@
+1 CHIL @P10@
+2 _FREL Natural
+2 _MREL Natural
+0 @F12@ FAM 
+1 HUSB @P21@
+1 WIFE @P20@
+1 CHIL @P13@
+2 _FREL Natural
+2 _MREL Natural
+0 @F13@ FAM 
+1 HUSB @P23@
+1 WIFE @P22@
+1 CHIL @P12@
+2 _FREL Natural
+2 _MREL Natural
+0 TRLR
