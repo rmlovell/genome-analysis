@@ -9,6 +9,7 @@ bibliography: "data/bibliography.bib"
 [Lab 5](Lab5_HuGen_2020.html)\
 [Lab 6](Lab6_HuGen_2020.html)\
 [Lab 9](Lab9_HuGen_2020.html)\
+[Lab 10](Lab10_HuGen_2020.html)\
 
 Application written in R [@RCoreTeam].
 
