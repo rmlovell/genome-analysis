@@ -10,6 +10,7 @@ bibliography: "data/bibliography.bib"
 [Lab 6](Lab6_HuGen_2020.html)\
 [Lab 9](Lab9_HuGen_2020.html)\
 [Lab 10](Lab10_HuGen_2020.html)\
+[Shiny App](https://robin-lovell.shinyapps.io/lab11/)\
 
 Application written in R [@RCoreTeam].
 
